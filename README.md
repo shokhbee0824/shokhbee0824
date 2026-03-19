@@ -56,3 +56,6 @@
 <p align="center">
   <i>"The quieter you become, the more you are able to hear."</i>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active_Now-success?style=flat-square&logo=github" alt="Status" />
+</p>
