@@ -59,3 +59,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active_Now-success?style=flat-square&logo=github" alt="Status" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shokhbee0824&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
