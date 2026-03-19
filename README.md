@@ -7,9 +7,6 @@
   </a>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=557C94&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Shokhjaxon!;Cybersecurity+Enthusiast;Python+%2F+Aiogram+Developer;Kali+Linux+Power+User" alt="Typing SVG" />
-</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shokhbee0824&label=SYSTEM%20ACCESS&color=557C94&style=for-the-badge" alt="views" />
