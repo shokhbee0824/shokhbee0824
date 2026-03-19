@@ -1,11 +1,5 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=557C94&center=true&vCenter=true&width=500&lines=SHOHJAXON+BAXTIYAROV;AL-Xorazmiy+Vorisi;Cybersecurity+Enthusiast" alt="Typing SVG" />
-</h1>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/kali.svg" width="120" alt="Kali Linux" />
-</p>
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shokhbee0824&label=SYSTEM%20ACCESS&color=557C94&style=for-the-badge" alt="views" />
 </p>
