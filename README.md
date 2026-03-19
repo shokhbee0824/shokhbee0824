@@ -28,10 +28,10 @@
 ---
 
 ### 📊 Tactical Data (Real-time Stats)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shokhbee0824&show_icons=true&theme=tokyonight&border_color=557C94&hide_border=false" width="450" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shokhbee0824&layout=compact&theme=tokyonight&border_color=557C94&hide_border=false" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shokhbee0824&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shokhbee0824&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
 </p>
 
 ### 🏆 Operational Achievements
