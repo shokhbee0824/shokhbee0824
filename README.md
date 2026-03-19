@@ -44,7 +44,9 @@
 
 ### 🏆 Operational Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shokhbee0824&theme=tokyonight&column=3&margin-w=15&no-bg=true" />
+  <img src="https://img.shields.io/badge/Security-Pentesting-red?style=for-the-badge&logo=kali-linux" />
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Tool-Metasploit-black?style=for-the-badge&logo=metasploit" />
 </p>
 
 ---
@@ -60,6 +62,3 @@
   <img src="https://img.shields.io/badge/Status-Active_Now-success?style=flat-square&logo=github" alt="Status" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shokhbee0824&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
