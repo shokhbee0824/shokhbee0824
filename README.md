@@ -30,20 +30,19 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-### 📈 Activity & Stats
+### 📈 GitHub Ecosystem
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shokhbee0824&show_icons=true&theme=tokyonight&count_private=true" width="400" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shokhbee0824&layout=compact&theme=tokyonight" width="300" />
 </p>
 
-### 🤝 Contact Me
-<p align="left">
-  <a href="https://t.me/+998958081027" target="blank">
-    <img src="https://img.shields.io/badge/Telegram-Contact_Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shokhbee0824&theme=tokyonight&column=3" />
 </p>
 
 ---
 <p align="center">
-  <i>"Success is not final, failure is not fatal: it is the courage to continue that counts."</i>
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>
