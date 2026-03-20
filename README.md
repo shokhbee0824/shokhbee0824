@@ -1,5 +1,23 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=557C94&center=true&vCenter=true&width=500&lines=SHOHJAXON+BAXTIYAROV;AL-Xorazmiy+Vorisi;Cybersecurity+Enthusiast" alt="Typing SVG" />
+<div align="center">
+  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 100px;">
+    <h1 style="font-family: 'Fira Code', monospace; font-size: 25px; color: #557C94; margin: 0; white-space: nowrap; overflow: hidden; border-right: 2px solid #557C94; animation: blink 1s step-end infinite;">
+      SHOHJAXON BAXTIYAROV
+    </h1>
+    <h1 style="font-family: 'Fira Code', monospace; font-size: 25px; color: #557C94; margin: 0; white-space: nowrap; overflow: hidden; border-right: 2px solid #557C94; animation: blink 1s step-end infinite;">
+      AL-Xorazmiy Vorisi
+    </h1>
+    <h1 style="font-family: 'Fira Code', monospace; font-size: 25px; color: #557C94; margin: 0; white-space: nowrap; overflow: hidden; border-right: 2px solid #557C94; animation: blink 1s step-end infinite;">
+      Cybersecurity Enthusiast
+    </h1>
+  </div>
+</div>
+
+<style>
+  @keyframes blink {
+    from, to { border-color: transparent }
+    50% { border-color: #557C94 }
+  }
+</style>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shokhbee0824&label=SYSTEM%20ACCESS&color=557C94&style=for-the-badge" alt="views" />
 </p>
